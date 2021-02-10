@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+#eye {
+	text-align: center		
+}
+.fun {
+	 align-items: center
+}
+
+.night {
+	padding: 10px;
+	background-color: antiquewhite;
+	font-size: 20px		
+}
+
+.text {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	border: 2px solid Tomato;
+	padding: 30px
+}
+
+#pan {
+		color: aqua			
+}
+#pop {
+    font-size: 40px;
+    text-align: center;
+}
