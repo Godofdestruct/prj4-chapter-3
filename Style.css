@@ -1,4 +1,4 @@
-@charset "utf-8";
+AA@charset "utf-8";
 * {margin: 0;
    padding:20px }
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 .night {
-	padding: 10px;
+	padding: 20px;
 	background-color: antiquewhite;
 	font-size: 20px		
 }
@@ -29,4 +29,8 @@ body {
 	font-family: 'Akaya Telivigala', cursive;
     font-size: 40px;
     text-align: center;
+}
+#kk {
+	font-size: 20px;
+	text-align: center;
 }
